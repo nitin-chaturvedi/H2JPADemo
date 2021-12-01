@@ -9,4 +9,8 @@ It is in memory detabase which comes with spring boot and can be used for dev us
 
 Stands for Java persistance Api Spring data JPA provides excellent ORM implementation which can be used for data base interactions.
 
+### Usefull links
+
+Comprehensive list of some spring data jpa annotations :: https://www.baeldung.com/spring-data-annotations
+
 
