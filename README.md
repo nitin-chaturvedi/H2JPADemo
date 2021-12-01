@@ -13,4 +13,6 @@ Stands for Java persistance Api Spring data JPA provides excellent ORM implement
 
 Comprehensive list of some spring data jpa annotations :: https://www.baeldung.com/spring-data-annotations
 
+list of query creation keywords :: https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.query-methods.query-creation
+
 
